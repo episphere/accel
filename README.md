@@ -1,0 +1,2 @@
+# accel
+Exploring accelerometer data 
